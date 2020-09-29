@@ -1,0 +1,9 @@
+D:\Polly\PollyStartupReg\PollyLibrary\bin\Debug\netstandard2.0\PollyLibrary.deps.json
+D:\Polly\PollyStartupReg\PollyLibrary\bin\Debug\netstandard2.0\PollyLibrary.dll
+D:\Polly\PollyStartupReg\PollyLibrary\obj\Debug\netstandard2.0\PollyLibrary.AssemblyInfoInputs.cache
+D:\Polly\PollyStartupReg\PollyLibrary\obj\Debug\netstandard2.0\PollyLibrary.AssemblyInfo.cs
+D:\Polly\PollyStartupReg\PollyLibrary\obj\Debug\netstandard2.0\PollyLibrary.csprojAssemblyReference.cache
+D:\Polly\PollyStartupReg\PollyLibrary\bin\Debug\netstandard2.0\PollyLibrary.pdb
+D:\Polly\PollyStartupReg\PollyLibrary\obj\Debug\netstandard2.0\PollyLibrary.dll
+D:\Polly\PollyStartupReg\PollyLibrary\obj\Debug\netstandard2.0\PollyLibrary.pdb
+D:\Polly\PollyStartupReg\PollyLibrary\obj\Debug\netstandard2.0\PollyLibrary.csproj.CoreCompileInputs.cache
